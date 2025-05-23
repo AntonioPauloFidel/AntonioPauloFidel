@@ -26,15 +26,24 @@
 ## 📫 Como me encontrar  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antoniopaulopereirafidel/)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fidel.pereira_/#)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/a.paulo_fidel/)  
 
 ---
 
 ## ⚙️ Estatísticas  
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AntonioPauloFidel&count_private=true&show_icons=true&theme=gotham" />
-</a>  
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioPauloFidel&layout=compact&theme=gotham" />
-</a>
+<div align="center">
+  <a href="https://github.com/AntonioPauloFidel">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AntonioPauloFidel&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioPauloFidel&layout=compact&langs_count=7&theme=gotham"/>
+  </a>
+</div>
+
+---
+
+## 🚀 Commits por Linguagem  
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AntonioPauloFidel&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AntonioPauloFidel&theme=github_dark" />
+</div>
