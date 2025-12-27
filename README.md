@@ -16,7 +16,7 @@ Atualmente sou acadêmico de **Engenharia de Software** na **ULBRA** e atuo na i
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
-### 📊 Monitoring & Observability (Minha Especialidade)
+### 📊 Monitoring & Observability
 <p>
   <img src="https://img.shields.io/badge/-Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white" />
   <img src="https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
@@ -27,7 +27,6 @@ Atualmente sou acadêmico de **Engenharia de Software** na **ULBRA** e atuo na i
 <p>
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 </p>
 
 ---
