@@ -1,15 +1,12 @@
-# 👋 Olá, eu sou o Antonio Paulo!
+# Hi there, I'm Antonio Paulo Fidel Software Engineer .
 
-### 🚀 Desenvolvedor Full-Stack | Python (Django) • TypeScript (React) • Node.js
+I am a Software Engineering student at ULBRA Palmas and work as a Full-Stack Developer with solid experience in DevOps culture. I have practical experience developing enterprise web systems, handling everything from backend and frontend architecture to deployment, CI/CD automation, and monitoring on Linux servers. I am passionate about solving complex problems with clean code and creating automated solutions.
+## 📫 Conecte-se comigo
+<br/>
 
-Sou académico de **Engenharia de Software** na **ULBRA** e atualmente atuo como **Desenvolvedor Full-Stack** na **Mix Alimentos**. Minha trajetória envolve a transição do suporte técnico para o desenvolvimento de soluções digitais completas.
-
-Tenho experiência prática na construção de aplicações web, desde a modelagem de bancos de dados até a criação de interfaces modernas. Utilizo meu conhecimento técnico para garantir que as aplicações sejam bem configuradas e monitoradas, focando em entregar código funcional e processos automatizados.
-
----
-
-## 🛠️ Tecnologias & Ferramentas
-
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antoniopaulopereirafidel/)
+[![GitHub](https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AntonioPauloFidel)
+[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antoniopfdl.fidel@gmail.com)
 ### 💻 Desenvolvimento Full-Stack
 <p>
   <img src="https://img.shields.io/badge/-Python-333E72?style=for-the-badge&logo=python&logoColor=yellow" />
@@ -51,14 +48,17 @@ Tenho experiência prática na construção de aplicações web, desde a modelag
 </p>
 
 ---
+<br/><br/>
 
-## 📫 Conecte-se comigo
+```python
+import datetime
 
-<p>
-  <a href="https://www.linkedin.com/in/antoniopaulopereirafidel/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:antoniopfdl.fidel@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+class AntonioPauloFidel:
+    def __init__(self):
+        self.name = 'Antonio Paulo Pereira Fidel'
+        self.role = 'Full-Stack Developer & DevOps Engineer'
+        self.study = 'ULBRA - Software Engineering'
+        self.birthday = datetime.date(2004, 3, 31)
+        self.stacks = ['Python', 'Django', 'React', 'TypeScript', 'Node.js', 'Docker', 'Linux']
+
+
