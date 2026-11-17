@@ -12,10 +12,13 @@
 
 ---
 
-Construo sistemas de ponta a ponta: **API, front web e mobile, banco de dados, contêineres, CI e deploy**. Nos projetos mais recentes tenho trabalhado com **IA aplicada**: busca semântica com embeddings, RAG com citação de fontes, OCR e roteamento de intenções com LLMs.
+Olá! 👋 Sou desenvolvedor full-stack e gosto de levar uma ideia **do zero até produção**.
 
+Comecei no suporte de TI, passei pela infraestrutura e hoje desenvolvo sistemas que pessoas usam no dia a dia: portais corporativos, plataformas de gestão de pessoas e apps de estudo. Por ter vindo da infra, penso no sistema inteiro, e não só no código: como ele sobe, como é monitorado e o que acontece quando algo quebra.
 
-
+- 🚀 **Do banco ao deploy:** modelagem, APIs, interfaces web e mobile, Docker e CI/CD
+- 🤖 **IA aplicada:** assistentes que respondem com base em documentos e citam a fonte, busca semântica e OCR
+- 🖥️ **Infra e observabilidade:** servidores Linux, Nginx e Apache, Zabbix e Grafana
 ---
 
 ## 🛠️ Tecnologias
