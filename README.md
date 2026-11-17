@@ -20,61 +20,23 @@ Hoje estou no **SENAI-TO** (TI e Inovação) e atendo como freelancer pela **MR 
 
 ## Tecnologias
 
-<p align="center">
-  <b>Back-end</b><br/><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/python/python-original.svg" height="40" alt="Python" title="Python"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/django/django-plain.svg" height="40" alt="Django" title="Django"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI" title="FastAPI"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" title="Node.js"/> &nbsp;
-  <img src="https://cdn.simpleicons.org/nestjs/E0234E" height="40" alt="NestJS" title="NestJS"/> &nbsp;
-  <img src="https://cdn.simpleicons.org/express/888888" height="40" alt="Express" title="Express"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET" title=".NET"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/php/php-original.svg" height="40" alt="PHP" title="PHP"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/laravel/laravel-original.svg" height="40" alt="Laravel" title="Laravel"/>
-</p>
+**Back-end**<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/> <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
 
-<p align="center">
-  <b>Front-end e mobile</b><br/><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/react/react-original.svg" height="40" alt="React / React Native" title="React / React Native"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript"/> &nbsp;
-  <img src="https://cdn.simpleicons.org/expo/888888" height="40" alt="Expo" title="Expo"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS" title="Tailwind CSS"/>
-</p>
+**Front-end e mobile**<br/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native"/> <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo"/> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
 
-<p align="center">
-  <b>Dados</b><br/><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="40" alt="SQL Server" title="SQL Server"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/oracle/oracle-original.svg" height="40" alt="Oracle" title="Oracle"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" title="MongoDB"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/redis/redis-original.svg" height="40" alt="Redis" title="Redis"/> &nbsp;
-  <img src="https://cdn.simpleicons.org/prisma/888888" height="40" alt="Prisma" title="Prisma"/>
-</p>
+**Dados**<br/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma"/>
 
-<p align="center">
-  <b>Infra e DevOps</b><br/><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/docker/docker-original.svg" height="40" alt="Docker" title="Docker"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/githubactions/githubactions-original.svg" height="40" alt="GitHub Actions" title="GitHub Actions"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/nginx/nginx-original.svg" height="40" alt="Nginx" title="Nginx"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/apache/apache-original.svg" height="40" alt="Apache" title="Apache"/> &nbsp;
-  <img src="https://cdn.simpleicons.org/caddy/1F88C0" height="40" alt="Caddy" title="Caddy"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/linux/linux-original.svg" height="40" alt="Linux" title="Linux"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/grafana/grafana-original.svg" height="40" alt="Grafana" title="Grafana"/><br/><sub>+ Zabbix</sub>
-</p>
+**Infra e DevOps**<br/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"/> <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx"/> <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white" alt="Apache"/> <img src="https://img.shields.io/badge/Caddy-1F88C0?style=flat-square&logo=caddy&logoColor=white" alt="Caddy"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/> <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana"/> <img src="https://img.shields.io/badge/Zabbix-CC0000?style=flat-square" alt="Zabbix"/>
 
-<p align="center">
-  <b>IA</b><br/><br/>
-  <img src="https://cdn.simpleicons.org/ollama/888888" height="40" alt="Ollama" title="Ollama"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/postgresql/postgresql-original.svg" height="40" alt="pgvector" title="pgvector"/><br/><sub>RAG · embeddings · pgvector · OCR</sub>
-</p>
+**IA**<br/>
+<img src="https://img.shields.io/badge/RAG_e_embeddings-6E40C9?style=flat-square" alt="RAG e embeddings"/> <img src="https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="pgvector"/> <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama"/> <img src="https://img.shields.io/badge/OCR-5A5A5A?style=flat-square" alt="OCR"/>
 
-<p align="center">
-  <b>Testes</b><br/><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/jest/jest-plain.svg" height="40" alt="Jest" title="Jest"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/vitest/vitest-original.svg" height="40" alt="Vitest" title="Vitest"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/pytest/pytest-original.svg" height="40" alt="pytest" title="pytest"/> &nbsp;
-  <img src="https://cdn.simpleicons.org/cypress/69D3A7" height="40" alt="Cypress" title="Cypress"/>
-</p>
+**Testes**<br/>
+<img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" alt="Jest"/> <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest"/> <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="pytest"/> <img src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" alt="Cypress"/>
 
 ---
 
