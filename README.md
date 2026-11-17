@@ -19,6 +19,7 @@ Comecei no suporte de TI, passei pela infraestrutura e hoje desenvolvo sistemas 
 - 🚀 **Do banco ao deploy:** modelagem, APIs, interfaces web e mobile, Docker e CI/CD
 - 🤖 **IA aplicada:** assistentes que respondem com base em documentos e citam a fonte, busca semântica e OCR
 - 🖥️ **Infra e observabilidade:** servidores Linux, Nginx e Apache, Zabbix e Grafana
+
 ---
 
 ## 🛠️ Tecnologias
