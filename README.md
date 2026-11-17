@@ -14,7 +14,7 @@
 
 Construo sistemas de ponta a ponta: **API, front web e mobile, banco de dados, contêineres, CI e deploy**. Nos projetos mais recentes tenho trabalhado com **IA aplicada**: busca semântica com embeddings, RAG com citação de fontes, OCR e roteamento de intenções com LLMs.
 
-Gosto de trabalhar em equipe com fluxo de verdade: branches por funcionalidade, PRs pequenos, commits convencionais, testes automatizados e CI barrando o que quebra.
+
 
 ---
 
