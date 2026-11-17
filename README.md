@@ -12,13 +12,13 @@
 
 ---
 
-Olá! 👋 Sou desenvolvedor full-stack e gosto de levar uma ideia **do zero até produção**.
+Olá! 👋 Sou o Antonio, dev full-stack.
 
-Comecei no suporte de TI, passei pela infraestrutura e hoje desenvolvo sistemas que pessoas usam no dia a dia: portais corporativos, plataformas de gestão de pessoas e apps de estudo. Por ter vindo da infra, penso no sistema inteiro, e não só no código: como ele sobe, como é monitorado e o que acontece quando algo quebra.
-
-- 🚀 **Do banco ao deploy:** modelagem, APIs, interfaces web e mobile, Docker e CI/CD
-- 🤖 **IA aplicada:** assistentes que respondem com base em documentos e citam a fonte, busca semântica e OCR
-- 🖥️ **Infra e observabilidade:** servidores Linux, Nginx e Apache, Zabbix e Grafana
+- 💼 **Hoje:** TI e Inovação no **SENAI-TO** e dev freelancer na **MR Info**, onde integrei a emissão de NF-e às regras da Reforma Tributária
+- 📈 **Antes:** 1 ano e meio na **Mix Alimentos**, onde comecei como estagiário de infraestrutura (Zabbix, Grafana, Nginx) e saí como dev full-stack (Django + React, CI/CD com GitHub Actions)
+- 🔥 **Construindo:** o [**IGNIS**](https://github.com/saviodev0/IGNIS_Back_end), app de estudos com Pomodoro e um assistente de IA que lê os PDFs do aluno e responde citando a página
+- 🛡️ **Criei uma linguagem de programação:** a [**TankScript**](https://github.com/AntonioPauloFidel/Domain-Specific-Language), com parser em ANTLR, análise semântica e interpretador, que controla um jogo de estratégia
+- 💬 **Pode me perguntar sobre:** Django, NestJS, React, Docker, CI/CD e RAG
 
 ---
 
