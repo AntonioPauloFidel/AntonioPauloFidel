@@ -1,4 +1,4 @@
-# Olá, sou o Antonio 👋
+# Olá, sou o Antonio 
 
 Dev full-stack em Palmas (TO). Comecei no suporte de TI, passei pela infraestrutura e hoje trabalho no sistema inteiro: API, front web e mobile, banco de dados, Docker, CI/CD e o servidor onde tudo roda.
 
