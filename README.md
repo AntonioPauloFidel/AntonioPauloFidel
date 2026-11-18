@@ -2,7 +2,7 @@
 
 Dev full-stack em Palmas (TO). Comecei no suporte de TI, passei pela infraestrutura e hoje trabalho no sistema inteiro: API, front web e mobile, banco de dados, Docker, CI/CD e o servidor onde tudo roda.
 
-Hoje estou no **SENAI-TO** (TI e Inovação) e atendo como freelancer pela **MR Info**. Antes, passei 1 ano e meio na **Mix Alimentos**, onde entrei como estagiário de infraestrutura e saí como dev full-stack. Curso Engenharia de Software na ULBRA Palmas.
+Atualmente no **SENAI-TO** (TI e Inovação) e freelancer na **MR Info**. Na **Mix Alimentos**, cresci de estagiário de infraestrutura a dev full-stack em 1 ano e meio. Estudante de Engenharia de Software na ULBRA Palmas.
 
 **Aberto a oportunidades.**
 
