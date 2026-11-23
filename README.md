@@ -9,7 +9,7 @@ Atualmente no **SENAI-TO** (TI e Inovação) e freelancer na **MR Info**. Antes,
 ## O que estou construindo
 
 - **[IGNIS](https://github.com/saviodev0/IGNIS_Back_end):** app de estudos com Pomodoro e um assistente de IA que lê os PDFs do aluno e responde citando a página. NestJS, Prisma, React Native, busca semântica com embeddings e OCR.
-- **Culture OS:** plataforma de RH com 9-Box, OKRs e avaliação 360°, feita com a equipe BitStudioLabs. Sou o principal contribuidor, com mais de 250 commits. FastAPI, React e um assistente de IA local com Ollama e pgvector.
+- **Culture OS:** plataforma de RH com 9-Box, OKRs e avaliação 360°, feita com a equipe BitStudioLabs.FastAPI, React e um assistente de IA local com Ollama e pgvector.
 - **[TankScript](https://github.com/AntonioPauloFidel/Domain-Specific-Language):** linguagem de programação própria, com parser em ANTLR, análise semântica e interpretador, que controla um jogo de estratégia com interface em Phaser.
 
 ## Destaques
